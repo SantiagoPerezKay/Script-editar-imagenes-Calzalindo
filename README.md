@@ -103,7 +103,7 @@ Copiar código
 
 Payload enviado:
 
-```json
+json
 {
   "codigo": 134217
 }
